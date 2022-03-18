@@ -10,5 +10,5 @@
 
 ### Contact me ?
 
-Discord : Sakuto#7777
+Discord : Sakuto#7777\
 Mail : Vigneronlucweb@gmail.com
