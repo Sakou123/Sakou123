@@ -6,4 +6,4 @@
 - 📫 How to reach me: Discord : Sakuto#7777
 - ⚡ Fun fact: I've discovered this world (Web Dev) on a Sunday on my couch
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Sakou123&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=SakouDev&show_icons=true)
