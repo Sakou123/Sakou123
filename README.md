@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my DiscordBot
 - 🌱 I’m currently learning Dockers and DiscordJS
 - 💬 Ask me about React, Redux, TypeScript, Axios
-- ⚡ Fun fact: I've discovered this world (Web Dev) on a Sunday on my couch
+- ⚡ Fun fact: I've discovered this world (Web Dev) on a Sunday in my couch
 
 ### My Stats:
 ![GHstats](https://github-readme-stats.vercel.app/api?username=SakouDev&show_icons=true)
