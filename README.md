@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my DiscordBot
-- 🌱 I’m currently learning Dockers and DiscordJS
-- 💬 Ask me about React, Redux, TypeScript, Axios
+- 🔭 I’m currently studiying at Simplon.co
+- 🌱 I’m currently learning NextJS & Express with TypeScript (DiscordJS a bit too when I have some times)
+- 💬 Ask me about React, Redux, TypeScript, Axios, Express a bit
 - ⚡ Fun fact: I've discovered this world (Web Dev) on a Sunday in my couch
 
 ### My Stats:
