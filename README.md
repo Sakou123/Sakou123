@@ -10,7 +10,8 @@
 
 ### Contact me ?
 
-
+Discord : Sakuto#7777\
+Mail : Vigneronlucweb@gmail.com
 
 ### Connect with me:
 
@@ -20,8 +21,6 @@
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/vigneronluc//#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vigneronluc//#gh-dark-mode-only)
 
-Discord : Sakuto#7777\
-Mail : Vigneronlucweb@gmail.com
 
 
 ### Languages and Tools:
