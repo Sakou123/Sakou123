@@ -18,8 +18,8 @@ Mail : Vigneronlucweb@gmail.com
 [![img_contact](./img/globe-light.svg)](https://estcequecestbientotleweekend.fr/#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://estcequecestbientotleweekend.fr/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/vigneronluc//#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vigneronluc//#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/vigneronluc/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vigneronluc/#gh-dark-mode-only)
 
 
 
