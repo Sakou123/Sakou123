@@ -10,7 +10,7 @@
 
 ### Contact me ?
 
-Discord : Sakuto#7777\
+Discord : .sakuto\
 Mail : Vigneronlucweb@gmail.com
 
 ### Connect with me:
