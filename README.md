@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at Simplon.co
+- 🔭 I’m currently searching to work
 - 🌱 I’m currently learning NextJS & Express with TypeScript (DiscordJS a bit too when I have some time)
 - 💬 Ask me about React, Redux, TypeScript, Axios, Express a bit
 - ⚡ Fun fact: I've discovered this world (Web Dev) on a Sunday on my couch
